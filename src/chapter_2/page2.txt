@@ -2,7 +2,7 @@ Git:
 	a version control system
 
 GitHub:
-	platform to host remote repositories
+	platform to host remote repositories..........
 
 Local repository: folder to keep track of changes locally, on each device
 
